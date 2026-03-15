@@ -6,7 +6,8 @@ Task 1
 
 Task 2
 https://github.com/Ejakosah/Lab-5/blob/main/Screenshot%202026-03-14%20200306.png
-Screenshot 2026-03-14 203755.png
+https://github.com/Ejakosah/Lab-5/blob/main/Screenshot%202026-03-14%20203755.png
+
 
 Task 3
 Task 4
