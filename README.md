@@ -5,7 +5,7 @@ Task 1
 
 
 Task 2
-![Screenshot](Screenshot2026-03-14200306.png)
+![Screenshot](Screenshot2026-03-14200306.png)https://github.com/Ejakosah/Lab-5/blob/main/Screenshot%202026-03-14%20200306.png
 
 
 Task 3
