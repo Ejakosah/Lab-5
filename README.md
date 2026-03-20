@@ -1,13 +1,11 @@
 # Lab-5
-Task 1
+Task 1: Environment Setup
 
 ![Screenshot](Screenshot1a.png)
-
+This screenshot shows the successful cloning of the lab5-unit-conversion repository and that I made the python environment. The ls command confirms all required directories were present. The gcloud services enable command successfully enabled all required APIs. All 
 
 Task 2
-https://github.com/Ejakosah/Lab-5/blob/main/Screenshot%202026-03-14%20200306.png
 
-2) https://github.com/Ejakosah/Lab-5/blob/main/Screenshot%202026-03-14%20203755.png
 
 Task 3: Building the Conversion Engine (Private gRPC Service)
 
