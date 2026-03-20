@@ -27,3 +27,5 @@ There was a successful health check returning {"status": "ok"} and the units end
 
 Task 7: Explore Google Cloud Console
 What’s shown is both Cloud Run services (converter-api and  conversion-engine) in the Google Cloud Console dashboard with green  checkmarks showing they are healthy. The converter-api Security tab  displays "Allow unauthenticated" with an asterisk confirming allUsers  has the invoker role, making it publicly accessible as intended. The  conversion-engine Security tab shows "Require authentication" with IAM,  and the policy lists the service account 375201974496-compute@developer.gserviceaccount.com  with the Cloud Run Invoker role. The logs tab for each service shows the HTTP requests and  gRPC calls, confirming the separation between  the public API and private engine. The Artifact Registry view displays  both container images with their digests and push dates, showing that immutable container images were built before deployment.
+
+Reflection Questions
