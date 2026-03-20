@@ -39,4 +39,4 @@ Reflection Questions
 
 5) A cold start is the delay when Cloud Run starts a container from zero instances after a period of inactivity then there is an initialization of the Python process and load dependencies. This system may  require two cold starts for the first request because the Converter API  must start first to receive the request, which then triggers the  Conversion Engine to start when it makes the gRPC call. Cloud Run  accepts this trade-off because scaling to zero saves money during idle periods.
 
-6) 
+6) The .proto file is stored in the repository because it is the human-readable contract that defines the service interface,  while the generated _pb2.py files are derived artifacts that can be  regenerated at any time. This approach helps microservices evolve safely  because the contract is version-controlled and changes can be reviewed. When a new field has to be added to a service old clients ignore it and old servers  provide defaults for fields that are new. This process is exactly what allows services to be updated independently without breaking existing callers.
