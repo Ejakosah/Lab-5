@@ -15,9 +15,9 @@ The solution came from updating both services' requirements.txt files to specify
 
 Task 4: Build the Converter API
 
+This captures the successful build and deployment of the converter-api service. The `gcloud builds submit` command uploaded the source code to Cloud Build. During this process the command which built the container pushed it to Artifact Registry. The `gcloud run deploy` command created a new Cloud Run service making it publicly accessible from the internet. 
 
-
-Task 5
+Task 5: Grant Service-to-Service Permissions
 
 
 Task 6
