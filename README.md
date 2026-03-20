@@ -20,6 +20,7 @@ This captures the successful build and deployment of the converter-api service. 
 Task 5: Grant Service-to-Service Permissions
 
 
+This screenshot shows the IAM policy binding that grants the converter-api permission to invoke the private conversion-engine. The `gcloud run services add-iam-policy-binding` command attaches the `roles/run.invoker` role to the service account for the conversion-engine. The verification command shows the binding was successfully added and the output confirmed the service account is authorized to call the private engine. This implements the zero-trust security model where the services have to prove identity rather than just relying only on network location which is more secure.
 Task 6
 
 
