@@ -30,3 +30,5 @@ What’s shown is both Cloud Run services (converter-api and  conversion-engine)
 
 Reflection Questions
 1) Unit conversion is a genuinely stateless workload because the output depends  only on the input for example 100 kilometers will always convert to 62.137119  miles regardless of any container instance which is handling the request or whenever it started. There isn’t any database, user session, or shared state between  calls, and because of this fact it means any instance can handle any request independently.  This is the exact reason why it is a great fit for Cloud Run's scale-to-zero model  because containers can be spun up and down without losing data or  causing inconsistency. A workload that would not be suitable is for example an amazon shopping cart, which maintains state across user interactions and requires persistent storage.
+
+2) 
