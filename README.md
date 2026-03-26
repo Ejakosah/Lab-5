@@ -3,6 +3,7 @@ Task 1: Environment Setup
 
 ![Screenshot](Screenshot1a.png)
 This screenshot shows the successful cloning of the lab5-unit-conversion repository and that I made the python environment. The ls command confirms all required directories were present. The gcloud services enable command successfully enabled all required APIs. All foundational services necessary for deploying serverless containers were made.
+<img width="762" height="538" alt="Screenshot 2026-03-15 153752" src="https://github.com/user-attachments/assets/0ea92b9d-ffa1-4e6f-b2e7-c4109911bf4b" />
 
 Task 2: Generate gRPC Stubs from the Contract
 These screenshots show the execution of `bash setup.sh` which runs the protoc compiler to generate Python gRPC stubs. The generated files are shown in both the conversion-engine and converter-api directories. This process enforces the service contract making sure that both services work together on data structure when compiling instead of when it hits runtime. 
