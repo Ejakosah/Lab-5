@@ -1,7 +1,33 @@
 # Lab-5
+![Screenshot](Screenshot1a.png)
+
+<img width="944" height="322" alt="Screenshot 2026-03-15 195022" src="https://github.com/user-attachments/assets/113853b4-613d-423e-a471-54e3ee65b6a4" />
+<img width="1277" height="830" alt="Screenshot 2026-03-14 200306" src="https://github.com/user-attachments/assets/bdfa1f9d-31c5-4ecc-ba95-37f3afcd9f78" />
+<img width="774" height="95" alt="Screenshot 2026-03-14 203755" src="https://github.com/user-attachments/assets/3084734c-52d1-4210-b070-e4ed823fd168" />
+<img width="911" height="617" alt="Screenshot 2026-03-15 101545" src="https://github.com/user-attachments/assets/7582949e-273b-44d9-b6ff-67533ea8169b" />
+<img width="1036" height="664" alt="Screenshot 2026-03-15 101554" src="https://github.com/user-attachments/assets/7892ee67-c9d5-48f6-8612-3b8984a4706e" />
+<img width="1003" height="670" alt="Screenshot 2026-03-15 101606" src="https://github.com/user-attachments/assets/889ca1bd-b832-4b56-b022-c61b7a9a31dc" />
+<img width="877" height="665" alt="Screenshot 2026-03-15 101617" src="https://github.com/user-attachments/assets/98102619-fb25-4cc9-9377-0ec63ec784fe" />
+<img width="673" height="674" alt="Screenshot 2026-03-15 101632" src="https://github.com/user-attachments/assets/df28998a-5910-4444-8856-eee97dd9dfde" />
+<img width="747" height="651" alt="Screenshot 2026-03-15 101652" src="https://github.com/user-attachments/assets/c14ceab9-fa95-42a1-a882-d6bc03ef4a9f" />
+<img width="900" height="621" alt="Screenshot 2026-03-15 104440" src="https://github.com/user-attachments/assets/06f03c72-6992-4974-9a86-a1c45acf7353" />
+<img width="1017" height="724" alt="Screenshot 2026-03-15 125818" src="https://github.com/user-attachments/assets/24422be3-6d70-4e7f-8138-ec5ddd9eba5c" />
+<img width="875" height="731" alt="Screenshot 2026-03-15 125829" src="https://github.com/user-attachments/assets/d984b08d-4bbb-4e48-973c-442641132dca" />
+<img width="828" height="745" alt="Screenshot 2026-03-15 132731" src="https://github.com/user-attachments/assets/26f20742-aa02-4cdd-ba36-da9035fea95c" />
+<img width="837" height="687" alt="Screenshot 2026-03-15 132743" src="https://github.com/user-attachments/assets/7ab09c30-d4a8-4052-8dd9-11ce3fd06742" />
+<img width="823" height="802" alt="Screenshot 2026-03-15 134319" src="https://github.com/user-attachments/assets/6b7e3b20-1621-4292-a339-e3afa3474d90" />
+<img width="759" height="808" alt="Screenshot 2026-03-15 134355" src="https://github.com/user-attachments/assets/7fa2d8d4-02e9-4daf-bf00-a4b011cc7b11" />
+<img width="452" height="797" alt="Screenshot 2026-03-15 134416" src="https://github.com/user-attachments/assets/a3186be2-627f-4af7-b5ff-a501d9a83d0a" />
+<img width="895" height="683" alt="Screenshot 2026-03-15 143027" src="https://github.com/user-attachments/assets/0e89daf2-50a7-45cd-80dd-725167541dcc" />
+<img width="580" height="445" alt="Screenshot 2026-03-15 143109" src="https://github.com/user-attachments/assets/15a146fb-5122-4016-b2d0-89d9f34cbec1" />
+<img width="792" height="882" alt="Screenshot 2026-03-15 143221" src="https://github.com/user-attachments/assets/066824d6-d818-4e80-a949-f4479c267157" />
+<img width="762" height="538" alt="Screenshot 2026-03-15 153752" src="https://github.com/user-attachments/assets/7733855c-d2ba-401b-b069-6e0c763fc123" />
+<img width="787" height="278" alt="Screenshot 2026-03-15 160457" src="https://github.com/user-attachments/assets/86271aa6-322a-49a4-923c-0858c36df651" />
+<img width="689" height="585" alt="Screenshot 2026-03-15 160829" src="https://github.com/user-attachments/assets/dd5b8249-3ce8-4c86-a0b1-2b8c7f339945" />
+
+
 Task 1: Environment Setup
 
-![Screenshot](Screenshot1a.png)
 This screenshot shows the successful cloning of the lab5-unit-conversion repository and that I made the python environment. The ls command confirms all required directories were present. The gcloud services enable command successfully enabled all required APIs. All foundational services necessary for deploying serverless containers were made.
 
 Task 2: Generate gRPC Stubs from the Contract
