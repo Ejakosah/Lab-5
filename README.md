@@ -1,7 +1,6 @@
 # Lab-5
 ![Screenshot](Screenshot1a.png)
 
-<img width="944" height="322" alt="Screenshot 2026-03-15 195022" src="https://github.com/user-attachments/assets/113853b4-613d-423e-a471-54e3ee65b6a4" />
 <img width="1277" height="830" alt="Screenshot 2026-03-14 200306" src="https://github.com/user-attachments/assets/bdfa1f9d-31c5-4ecc-ba95-37f3afcd9f78" />
 <img width="774" height="95" alt="Screenshot 2026-03-14 203755" src="https://github.com/user-attachments/assets/3084734c-52d1-4210-b070-e4ed823fd168" />
 <img width="911" height="617" alt="Screenshot 2026-03-15 101545" src="https://github.com/user-attachments/assets/7582949e-273b-44d9-b6ff-67533ea8169b" />
@@ -24,7 +23,7 @@
 <img width="762" height="538" alt="Screenshot 2026-03-15 153752" src="https://github.com/user-attachments/assets/7733855c-d2ba-401b-b069-6e0c763fc123" />
 <img width="787" height="278" alt="Screenshot 2026-03-15 160457" src="https://github.com/user-attachments/assets/86271aa6-322a-49a4-923c-0858c36df651" />
 <img width="689" height="585" alt="Screenshot 2026-03-15 160829" src="https://github.com/user-attachments/assets/dd5b8249-3ce8-4c86-a0b1-2b8c7f339945" />
-
+<img width="944" height="322" alt="Screenshot 2026-03-15 195022" src="https://github.com/user-attachments/assets/113853b4-613d-423e-a471-54e3ee65b6a4" />
 
 Task 1: Environment Setup
 
